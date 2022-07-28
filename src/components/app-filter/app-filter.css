@@ -7,3 +7,9 @@
     color: #0c0c0c;
 
 }
+.btn-outline-light {
+    color: black;
+    border-radius: 4px;
+    box-shadow: 15px 10px 30px #505d5b;
+    background-color: #406ab2;
+}
